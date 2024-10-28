@@ -1,2 +1,2 @@
-# scripts
+# script
 User Scripts for Linux
