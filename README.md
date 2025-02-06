@@ -4,7 +4,7 @@ User Scripts for Linux
 ## Usage
 Run install file
 ```shell
-source ./install.sh
+./install.sh
 ```
 
 And run script aliases
