@@ -3,14 +3,17 @@ User Scripts for Linux
 
 ## Usage
 Run install file
-```source ./install.sh
-```bash
+```shell
+source ./install.sh
+```
 
 And run script aliases
-```awake
-```bash
+```shell
+awake
+```
 
 ## Alternate Usage
 Run scripts directly
-```./awake.sh
-```bash
+```shell
+./awake.sh
+```
