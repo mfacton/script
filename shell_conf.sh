@@ -11,3 +11,7 @@ alias gstat="(conda activate mfact && cd ~/Projects && gsync status)"
 
 # scripts
 alias awake=$USER_SCRIPT_DIR/awake.sh
+
+# exports
+# this is for tmuxinator
+export EDITOR='vim'
